@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "strict": true,
+    "experimentalDecorators": true,
+    "module": "es2015",
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*"],
+  "files": ["src/shim-vue.d.ts"],
+  "exclude": ["node_modules"]
+}
