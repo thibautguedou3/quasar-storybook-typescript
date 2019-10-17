@@ -19,9 +19,13 @@
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@quasar/app": "^1.0.0",
+    "@storybook/addon-storysource": "^5.2.4",
     "@storybook/vue": "^5.2.4",
     "babel-loader": "^8.0.6",
     "babel-preset-vue": "^2.0.2",
+    "css-loader": "^3.2.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
     "ts-loader": "^6.2.0",
     "typescript": "^3.6.4",
     "vue-class-component": "^7.1.0",
